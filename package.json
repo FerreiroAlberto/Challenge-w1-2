@@ -1,0 +1,16 @@
+{
+  "name": "Challenge02",
+  "version": "1.0.0",
+  "description": "Replicate web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alberto Ferreiro",
+  "license": "ISC",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  }
+}
