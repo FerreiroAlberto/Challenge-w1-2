@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #3498db;
+  border-radius: 5px;
+  border: 2px solid #2980b9;
+  transition: background-color 0.3s ease;
+  height: 3vw;
+  width: 18vw;
+}
